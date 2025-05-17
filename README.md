@@ -3,8 +3,8 @@
 | Section | Description |
 |---------|-------------|
 | **Course** | *Machine Learning with Graphs* (Stanford Online, Non-degree) |
-| **Colab Solutions** | `colab1`, `colab2`, `colab3`, `colab4`, `colab5` |
-| **Homework** | Complete, worked-out answers to every assignment |
+| **Colab Solutions** | `colab1` completed |
+| **Homework** | yet to start |
 
 > **Tip:** Clone the repo and open the notebooks in Colab to experiment with the code yourself.
 
