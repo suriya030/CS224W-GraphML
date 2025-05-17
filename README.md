@@ -1,9 +1,13 @@
 **Course Name** : CS224W
 
-- **Course**: *Machine Learning with Graphs* – Stanford Online (Non-degree program)  
-- **Repository contents**  
-  - **Colab notebook solutions**: `colab1` – `colab5`  
-  - **Homework solutions**: complete answers to all assignments  
+| Section | Description |
+|---------|-------------|
+| **Course** | *Machine Learning with Graphs* (Stanford Online, Non-degree) |
+| **Colab Solutions** | `colab1`, `colab2`, `colab3`, `colab4`, `colab5` |
+| **Homework** | Complete, worked-out answers to every assignment |
+
+> **Tip:** Clone the repo and open the notebooks in Colab to experiment with the code yourself.
+
 
 *Feel free to explore, run the notebooks, and build on these solutions for your own learning!*
 
